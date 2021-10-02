@@ -1,0 +1,5 @@
+4
+P110, Tran Tung Lam, 12/4/195, 12 Quoc Lo 1A Binh Tan HCM, 8.56, 8000000, 2000000
+D310, Ly Quoc Kiet, 2/9/1991, 1/32 Nguyen Trai Quan 1 HCM, 3.76, 8000000, 3000000
+P350, Lam Tieu Mai, 72 Nguyen Thi Minh Khai HCM, 4.66, 6000000, 1500000
+D250, Tran Thi Diem, 21 Truong Van Da DN, 5.5, 10000000, 4000000
