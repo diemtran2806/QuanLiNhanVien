@@ -1,0 +1,56 @@
+
+Ma nhan vien:  P110
+
+Ho ten nhan vien:  Tran Tung Lam
+
+Ngay thang nam sinh: 12/4/1995
+
+Dia chi:  12 Quoc Lo 1A Binh Tan HCM
+
+He so luong: 8.56
+
+Luong co ban: 8000000
+
+Tien luong nhan duoc hang thang: 70480000
+
+Ma nhan vien:  D250
+
+Ho ten nhan vien:  Tran Thi Diem
+
+Ngay thang nam sinh: 20/2/1992
+
+Dia chi:  21 Truong Van Da DN
+
+He so luong: 5.5
+
+Luong co ban: 10000000
+
+Tien luong nhan duoc hang thang: 59000000
+
+Ma nhan vien:  D310
+
+Ho ten nhan vien:  Ly Quoc Kiet
+
+Ngay thang nam sinh: 2/9/1991
+
+Dia chi:  1/32 Nguyen Trai Quan 1 HCM
+
+He so luong: 3.76
+
+Luong co ban: 8000000
+
+Tien luong nhan duoc hang thang: 33080000
+
+Ma nhan vien:  P350
+
+Ho ten nhan vien:  Lam Tieu Mai
+
+Ngay thang nam sinh: 12/7/1991
+
+Dia chi:  72 Nguyen Thi Minh Khai HCM
+
+He so luong: 4.66
+
+Luong co ban: 6000000
+
+Tien luong nhan duoc hang thang: 29460000
